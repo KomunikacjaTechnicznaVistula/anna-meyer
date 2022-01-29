@@ -9,9 +9,9 @@ logo: "images/cat-logo.jpg"
 
 aux_links:
   "Source repository on GitHub":
-    - "//github.com/KomunikacjaTechnicznaVistula/morris-mini"
+    - "//github.com/KomunikacjaTechnicznaVistula/anna-meyer"
 
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>"
+footer_content: "This documentation is part of the final project for the Technical Communication course at Vistula University (Warsaw). </a>"
