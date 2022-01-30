@@ -5,7 +5,7 @@ remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: dark
 
-logo: "images/cat-logo.jpg"
+# logo: "images/cat-logo.jpg"
 
 aux_links:
   "Source repository on GitHub":
