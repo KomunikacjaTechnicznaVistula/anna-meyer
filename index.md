@@ -6,6 +6,6 @@ description: "Dummy Index Page"
 permalink: /
 ---
 
-![Kitku Logo](/assets/cat-logo.jpg)
+![Kitku Logo](/assets/cat-logo.png)
 
 # Introduction
