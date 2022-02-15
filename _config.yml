@@ -1,11 +1,11 @@
 name: Anna Meyer, Komunikacja Techniczna, AFiB Vistula
-title: Homework Project on Yerba Mate
+title: Preparing Mate User Manual
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: yerba-AM  
 
-# logo: "/assests/images/yerba.jpg"
+# logo: "/assests/images/yerba.png"
 
 aux_links:
   "Source repository on GitHub":
