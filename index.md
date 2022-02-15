@@ -6,14 +6,7 @@ description: "Index Page"
 permalink: /
 ---
 
-logo: "/assets/images/yerba.jpg"
-
 # Preparing Mate <br> User Manual
-{: .no_toc } 
-
-# Table of contents 
-{: .no_toc } 
-{:toc}
 
 ![Mate_BW](assests/images/mate-ge8531d78f_1280.svg)
 
