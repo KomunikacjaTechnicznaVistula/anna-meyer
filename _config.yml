@@ -5,7 +5,7 @@ remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: vistula
 
-# logo: "/assests/images/cat-logo.png"
+# logo: "/assests/images/yerba.jpg"
 
 aux_links:
   "Source repository on GitHub":
@@ -14,4 +14,4 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "This documentation is part of the final project for the Technical Communication course at Vistula University (Warsaw). </a>"
+footer_content: "This documentation is part of a homework project for the Technical Communication course at Vistula University (Warsaw). </a>"
