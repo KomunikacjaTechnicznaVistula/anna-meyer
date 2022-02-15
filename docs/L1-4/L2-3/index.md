@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Where to buy mate in Poland
-nav_order: 8
+nav_order: 9
 parent: About yerba mate
 has_children: true
 ---
