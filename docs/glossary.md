@@ -4,7 +4,7 @@ title: Glossary
 nav_order: 11
 ---
 
-# Gossary
+# Glossary
 
 ## Bombilla
 A drinking straw used to drink mate. Bombillas are made of hollow-stemmed cane, metal alloys, stainless steel, and silver.
