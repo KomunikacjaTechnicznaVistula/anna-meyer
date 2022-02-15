@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Where to buy <i>mate</i> in Poland
+title: Where to buy mate in Poland
 nav_order: 8
 parent: About yerba mate
 has_children: true
