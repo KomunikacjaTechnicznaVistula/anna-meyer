@@ -8,6 +8,15 @@ permalink: /
 
 # Preparing Mate <br> User Manual
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ![Mate_BW](assests/images/mate-ge8531d78f_1280.svg)
 
 ## About this manual
