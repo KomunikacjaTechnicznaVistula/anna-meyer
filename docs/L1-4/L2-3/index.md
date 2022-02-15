@@ -9,4 +9,4 @@ has_children: true
 
 ## Where to buy *mate* in Poland
 
-The best shops
+See our Best stores and Best online shops sections for more information.
