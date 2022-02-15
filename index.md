@@ -6,6 +6,8 @@ description: "Index Page"
 permalink: /
 ---
 
+logo: "/assets/images/yerba.jpg"
+
 # Preparing Mate <br> User Manual
 
 ![Mate_BW](assests/images/mate-ge8531d78f_1280.svg)
