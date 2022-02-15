@@ -3,7 +3,7 @@ title: Homework Project on Yerba Mate
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
-color_scheme: yerba-AM
+color_scheme: yerba-AM  
 
 # logo: "/assests/images/yerba.jpg"
 
