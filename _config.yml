@@ -1,4 +1,4 @@
-name: Anna Meyer, Komunikacja Techniczna, AFiB Vistula
+name: "Anna Meyer, Komunikacja Techniczna, AFiB Vistula"
 title: Preparing Mate User Manual
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
@@ -14,4 +14,4 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "This documentation is part of a homework project for the Technical Communication course at Vistula University (Warsaw). </a>"
+footer_content: "This documentation is part of a homework project for the Technical Communication course at Vistula University (Warsaw)."
