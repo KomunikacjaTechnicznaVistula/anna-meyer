@@ -3,7 +3,7 @@ title: Preparing Mate User Manual
 description: "An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme"
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
-color_scheme: yerbaAM  
+color_scheme: dark
 
 # logo: "/assests/images/yerba.png"
 
