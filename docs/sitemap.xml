@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>Topics/c_my_first_topic.html</loc>
+      <lastmod>2022-03-13T10:56:01Z</lastmod>
+   </url>
+   <url>
+      <loc>Topics/r_my_first_reference_topic.html</loc>
+      <lastmod>2022-03-13T10:56:01Z</lastmod>
+   </url>
+   <url>
+      <loc>Topics/t_my_first_task.html</loc>
+      <lastmod>2022-03-13T10:56:01Z</lastmod>
+   </url>
+</urlset>
