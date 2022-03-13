@@ -32,5 +32,11 @@
                 </tbody>
             </tgroup>
         </table>
+        <section id="section_ty4_sbh_wsb">
+            <title>xref example</title>
+            <p>Here comes an xref link to a codeblock in a different topic <xref
+                    href="c_my_first_topic.dita#c_my_first_topic/codeblock_ghh_vbh_wsb"
+                    >Codeblock</xref></p>
+        </section>
     </refbody>
 </reference>

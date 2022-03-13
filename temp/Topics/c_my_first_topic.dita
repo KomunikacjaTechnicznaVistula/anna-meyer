@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Asus\Desktop\Technical Communication\anna-meyer\temp\Topics?><?workdir-uri file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/temp/Topics/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="c_my_first_topic" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="concept:1;3:32" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="title:1;4:12">My First Topic</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="shortdesc:1;5:16"> Text</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="conbody:1;6:14">
+        <p id="p_shk_qzg_wsb" class="- topic/p " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="p:1;7:31">First</p>
+        <codeblock id="codeblock_ghh_vbh_wsb" xml:space="preserve" class="+ topic/pre pr-d/codeblock " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="codeblock:1;8:48"/>
+        <fig id="fig_ypz_znz_vsb" class="- topic/fig " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="fig:1;9:35">
+            <title class="- topic/title " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="title:2;10:20">Saturday</title>
+            <p class="- topic/p " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="p:2;11:16">
+                <fig id="fig_svj_wwz_vsb" class="- topic/fig " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="fig:2;12:43">
+                    <title class="- topic/title " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="title:3;13:28">It's Saturday</title>
+                    <image href="../Images/sat.jpg" id="image_tvj_wwz_vsb" scale="70" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="image:1;14:87" dita-ot:image-width="564" dita-ot:image-height="611">
+                        <alt class="- topic/alt " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="alt:1;15:30">Movement is optional</alt>
+                    </image>
+                </fig>
+            </p>
+        </fig>
+        <p class="- topic/p " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="p:3;20:12">This is my text, here is my image. <image href="../Images/sat.jpg" scale="10" id="image_adp_zwz_vsb" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Asus/Desktop/Technical%20Communication/anna-meyer/Topics/c_my_first_topic.dita" xtrc="image:2;21:41" dita-ot:image-width="564" dita-ot:image-height="611"/></p>
+    </conbody>
+</concept>
