@@ -6,6 +6,5 @@
     </meta>
     <projectTree name="GitHub.xpr">
         <folder path="."/>
-        <folder path="../SampleDITAproject/"/>
     </projectTree>
 </project>

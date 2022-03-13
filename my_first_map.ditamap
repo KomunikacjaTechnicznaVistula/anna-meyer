@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>My First Map</title>
+    <topicmeta>
+        <author>Anna Meyer</author>
+    </topicmeta>
+    <topicref href="Topics/c_my_first_topic.dita"/>
+    <topicref href="Topics/r_my_first_reference_topic.dita"/>
+    <topicref href="Topics/t_my_first_task.dita"/>
+    <reltable>
+        <relheader>
+            <relcolspec/>
+            <relcolspec/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="Topics/c_my_first_topic.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="Topics/t_my_first_task.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell/>
+        </relrow>
+    </reltable>
+</map>
