@@ -4,9 +4,10 @@
     <title>Logotyp WWF</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p>Panda wielka jest symbolem międzynarodowej organizacji pozarządowej WWF (Światowy Fundusz
-            na Rzecz Przyrody, World Wide Fund for Nature), której misją jest powstrzymywanie
-            degradacj środowiska naturalnego.</p>
+        <p>Panda wielka jest symbolem międzynarodowej organizacji pozarządowej <xref
+                href="https://www.wwf.pl/" format="html" scope="external">WWF</xref> (Światowy
+            Fundusz na Rzecz Przyrody, World Wide Fund for Nature), której misją jest
+            powstrzymywanie degradacj środowiska naturalnego.</p>
         <p>Od powstania WWF w 1961 roku logotyp kilkukrotnie ulegał zmianie:<fig
                 id="fig_v3j_tjl_zsb">
                 <title>WWF logo</title>

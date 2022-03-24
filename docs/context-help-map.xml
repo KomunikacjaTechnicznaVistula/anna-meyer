@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
    <appContext helpID="c_panda_wielka" path="Topics/c_panda_wielka.html"/>
-   <appContext helpID="c_rozmiary_pandy_wielkiej"
-               path="Topics/c_rozmiary_pandy_wielkiej.html"/>
    <appContext helpID="c_wystepowanie_i_srodowisko"
                path="Topics/c_wystepowanie_i_srodowisko.html"/>
    <appContext helpID="c_odzywianie" path="Topics/c_odzywianie.html"/>
+   <appContext helpID="c_rozmiary_pandy_wielkiej"
+               path="Topics/c_rozmiary_pandy_wielkiej.html"/>
    <appContext helpID="tryb_zycia_pandy_wielkiej"
                path="Topics/tryb_zycia_pandy_wielkiej.html"/>
    <appContext helpID="c_zagrozenie_i_ochrona"
@@ -20,9 +20,11 @@
    <appContext helpID="c_panda_wielka" path="Topics/c_panda_wielka.html"/>
    <appContext helpID="c_wystepowanie_i_srodowisko"
                path="Topics/c_wystepowanie_i_srodowisko.html"/>
+   <appContext helpID="c_odzywianie" path="Topics/c_odzywianie.html"/>
    <appContext helpID="c_rozmiary_pandy_wielkiej"
                path="Topics/c_rozmiary_pandy_wielkiej.html"/>
-   <appContext helpID="c_odzywianie" path="Topics/c_odzywianie.html"/>
+   <appContext helpID="tryb_zycia_pandy_wielkiej"
+               path="Topics/tryb_zycia_pandy_wielkiej.html"/>
    <appContext helpID="c_zagrozenie_i_ochrona"
                path="Topics/c_zagrozenie_i_ochrona.html"/>
    <appContext helpID="c_przyczyny_wymierania_pandy_wielkiej"

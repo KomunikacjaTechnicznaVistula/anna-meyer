@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>My First Map: Panda Wielka</title>
+    <title>Panda Wielka – podstawowe informacje</title>
     <topicmeta>
         <author>Anna Meyer</author>
         <copyright>
@@ -13,9 +13,9 @@
         </critdates>
     </topicmeta>
     <topicref href="Topics/c_panda_wielka.dita"/>
-    <topicref href="Topics/c_rozmiary_pandy_wielkiej.dita"/>
     <topicref href="Topics/c_wystepowanie_i_srodowisko.dita"/>
     <topicref href="Topics/c_odzywianie.dita"/>
+    <topicref href="Topics/c_rozmiary_pandy_wielkiej.dita"/>
     <topicref href="Topics/tryb_zycia_pandy_wielkiej.dita"/>
     <topicref href="Topics/c_zagrozenie_i_ochrona.dita"/>
     <topicref href="Topics/c_przyczyny_wymierania_pandy_wielkiej.dita"/>
@@ -33,8 +33,9 @@
             </relcell>
             <relcell>
                 <topicref href="Topics/c_wystepowanie_i_srodowisko.dita"/>
-                <topicref href="Topics/c_rozmiary_pandy_wielkiej.dita"/>
                 <topicref href="Topics/c_odzywianie.dita"/>
+                <topicref href="Topics/c_rozmiary_pandy_wielkiej.dita"/>
+                <topicref href="Topics/tryb_zycia_pandy_wielkiej.dita"/>
             </relcell>
         </relrow>
         <relrow>
