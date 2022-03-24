@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>Topics/c_my_first_topic.html</loc>
-      <lastmod>2022-03-13T11:10:38Z</lastmod>
+      <loc>Topics/c_panda_wielka.html</loc>
+      <lastmod>2022-03-24T07:39:09Z</lastmod>
    </url>
    <url>
-      <loc>Topics/r_my_first_reference_topic.html</loc>
-      <lastmod>2022-03-13T11:10:38Z</lastmod>
+      <loc>Topics/c_rozmiary_pandy_wielkiej.html</loc>
+      <lastmod>2022-03-24T07:39:09Z</lastmod>
    </url>
    <url>
-      <loc>Topics/t_my_first_task.html</loc>
-      <lastmod>2022-03-13T11:10:38Z</lastmod>
+      <loc>Topics/c_wystepowanie_i_srodowisko.html</loc>
+      <lastmod>2022-03-24T07:39:09Z</lastmod>
+   </url>
+   <url>
+      <loc>Topics/c_odzywianie.html</loc>
+      <lastmod>2022-03-24T07:39:09Z</lastmod>
+   </url>
+   <url>
+      <loc>Topics/tryb_zycia_pandy_wielkiej.html</loc>
+      <lastmod>2022-03-24T07:39:09Z</lastmod>
+   </url>
+   <url>
+      <loc>Topics/c_zagrozenie_i_ochrona.html</loc>
+      <lastmod>2022-03-24T07:39:09Z</lastmod>
+   </url>
+   <url>
+      <loc>Topics/c_przyczyny_wymierania_pandy_wielkiej.html</loc>
+      <lastmod>2022-03-24T07:39:09Z</lastmod>
+   </url>
+   <url>
+      <loc>Topics/t_zapobieganie_wymieraniu_pandy_wielkiej.html</loc>
+      <lastmod>2022-03-24T07:39:09Z</lastmod>
+   </url>
+   <url>
+      <loc>Topics/c_wybrane_ogrody_zoologiczne_w_ktorych_zyja_pandy_wielkie.html</loc>
+      <lastmod>2022-03-24T07:39:09Z</lastmod>
+   </url>
+   <url>
+      <loc>Topics/c_logotyp_wwf.html</loc>
+      <lastmod>2022-03-24T07:39:09Z</lastmod>
    </url>
 </urlset>

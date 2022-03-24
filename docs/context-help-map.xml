@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="c_my_first_topic" path="Topics/c_my_first_topic.html"/>
-   <appContext helpID="r_my_first_reference_topic"
-               path="Topics/r_my_first_reference_topic.html"/>
-   <appContext helpID="t_my_first_task" path="Topics/t_my_first_task.html"/>
-   <appContext helpID="c_my_first_topic" path="Topics/c_my_first_topic.html"/>
-   <appContext helpID="t_my_first_task" path="Topics/t_my_first_task.html"/>
+   <appContext helpID="c_panda_wielka" path="Topics/c_panda_wielka.html"/>
+   <appContext helpID="c_rozmiary_pandy_wielkiej"
+               path="Topics/c_rozmiary_pandy_wielkiej.html"/>
+   <appContext helpID="c_wystepowanie_i_srodowisko"
+               path="Topics/c_wystepowanie_i_srodowisko.html"/>
+   <appContext helpID="c_odzywianie" path="Topics/c_odzywianie.html"/>
+   <appContext helpID="tryb_zycia_pandy_wielkiej"
+               path="Topics/tryb_zycia_pandy_wielkiej.html"/>
+   <appContext helpID="c_zagrozenie_i_ochrona"
+               path="Topics/c_zagrozenie_i_ochrona.html"/>
+   <appContext helpID="c_przyczyny_wymierania_pandy_wielkiej"
+               path="Topics/c_przyczyny_wymierania_pandy_wielkiej.html"/>
+   <appContext helpID="t_zapobieganie_wymieraniu_pandy_wielkiej"
+               path="Topics/t_zapobieganie_wymieraniu_pandy_wielkiej.html"/>
+   <appContext helpID="c_lista_wybranych_ogrodow_zoologicznych_w_ktorych_zyja_pandy_wielkie"
+               path="Topics/c_wybrane_ogrody_zoologiczne_w_ktorych_zyja_pandy_wielkie.html"/>
+   <appContext helpID="c_logotyp_wwf" path="Topics/c_logotyp_wwf.html"/>
+   <appContext helpID="c_panda_wielka" path="Topics/c_panda_wielka.html"/>
+   <appContext helpID="c_wystepowanie_i_srodowisko"
+               path="Topics/c_wystepowanie_i_srodowisko.html"/>
+   <appContext helpID="c_rozmiary_pandy_wielkiej"
+               path="Topics/c_rozmiary_pandy_wielkiej.html"/>
+   <appContext helpID="c_odzywianie" path="Topics/c_odzywianie.html"/>
+   <appContext helpID="c_zagrozenie_i_ochrona"
+               path="Topics/c_zagrozenie_i_ochrona.html"/>
+   <appContext helpID="c_przyczyny_wymierania_pandy_wielkiej"
+               path="Topics/c_przyczyny_wymierania_pandy_wielkiej.html"/>
+   <appContext helpID="t_zapobieganie_wymieraniu_pandy_wielkiej"
+               path="Topics/t_zapobieganie_wymieraniu_pandy_wielkiej.html"/>
+   <appContext helpID="t_zapobieganie_wymieraniu_pandy_wielkiej"
+               path="Topics/t_zapobieganie_wymieraniu_pandy_wielkiej.html"/>
+   <appContext helpID="c_lista_wybranych_ogrodow_zoologicznych_w_ktorych_zyja_pandy_wielkie"
+               path="Topics/c_wybrane_ogrody_zoologiczne_w_ktorych_zyja_pandy_wielkie.html"/>
 </map>
