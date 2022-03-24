@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>My First Map</title>
+    <title>My First Map: Panda Wielka</title>
     <topicmeta>
         <author>Anna Meyer</author>
+        <copyright>
+            <copyryear year="2022"/>
+            <copyrholder>Anna Meyer</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2022/03"/>
+        </critdates>
     </topicmeta>
-    <topicref href="Topics/c_my_first_topic.dita"/>
-    <topicref href="Topics/r_my_first_reference_topic.dita"/>
-    <topicref href="Topics/t_my_first_task.dita"/>
+    <topicref href="Topics/c_panda_wielka.dita"/>
+    <topicref href="Topics/c_rozmiary_pandy_wielkiej.dita"/>
+    <topicref href="Topics/c_wystepowanie_i_srodowisko.dita"/>
+    <topicref href="Topics/c_odzywianie.dita"/>
+    <topicref href="Topics/tryb_zycia_pandy_wielkiej.dita"/>
+    <topicref href="Topics/c_zagrozenie_i_ochrona.dita"/>
+    <topicref href="Topics/c_przyczyny_wymierania_pandy_wielkiej.dita"/>
+    <topicref href="Topics/t_zapobieganie_wymieraniu_pandy_wielkiej.dita"/>
+    <topicref href="Topics/c_wybrane_ogrody_zoologiczne_w_ktorych_zyja_pandy_wielkie.dita"/>
+    <topicref href="Topics/c_logotyp_wwf.dita"/>
     <reltable>
         <relheader>
             <relcolspec/>
@@ -15,15 +29,31 @@
         </relheader>
         <relrow>
             <relcell>
-                <topicref href="Topics/c_my_first_topic.dita"/>
+                <topicref href="Topics/c_panda_wielka.dita"/>
             </relcell>
             <relcell>
-                <topicref href="Topics/t_my_first_task.dita"/>
+                <topicref href="Topics/c_wystepowanie_i_srodowisko.dita"/>
+                <topicref href="Topics/c_rozmiary_pandy_wielkiej.dita"/>
+                <topicref href="Topics/c_odzywianie.dita"/>
             </relcell>
         </relrow>
         <relrow>
-            <relcell/>
-            <relcell/>
+            <relcell>
+                <topicref href="Topics/c_zagrozenie_i_ochrona.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="Topics/c_przyczyny_wymierania_pandy_wielkiej.dita"/>
+                <topicref href="Topics/t_zapobieganie_wymieraniu_pandy_wielkiej.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="Topics/t_zapobieganie_wymieraniu_pandy_wielkiej.dita"/>
+            </relcell>
+            <relcell>
+                <topicref
+                    href="Topics/c_wybrane_ogrody_zoologiczne_w_ktorych_zyja_pandy_wielkie.dita"/>
+            </relcell>
         </relrow>
     </reltable>
 </map>

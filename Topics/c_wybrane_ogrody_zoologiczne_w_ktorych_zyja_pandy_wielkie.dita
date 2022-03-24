@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_lista_wybranych_ogrodow_zoologicznych_w_ktorych_zyja_pandy_wielkie">
+    <title>Wybrane ogrody zoologiczne, w których żyją pandy wielkie</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Lista wybranych ogrodów zoologicznych, w których żyją pandy wielkie: </p>
+        <p>Europa:<ul id="ul_wtj_sgl_zsb">
+                <li>Tiergarten Schönbrunn, Wiedeń (Austria)</li>
+                <li>Zoo Aquarium de Madrid, Madryt (Hiszpania)</li>
+                <li>Edinburgh Zoo, Edynburg (Wielka Brytania)</li>
+            </ul></p>
+        <p>Ameryka Północna:<ul id="ul_fyc_5gl_zsb">
+                <li>Toronto Zoo, Toronto (Kanada)</li>
+                <li>Memphis Zoo, Memphis (USA)</li>
+                <li>Chapultepec Zoo, Meksyk (Meksyk)</li>
+            </ul></p>
+        <p>Azja:<ul id="ul_c2r_5gl_zsb">
+                <li>Ueno Zoo, Tokio (Japonia)</li>
+                <li>Taipei Zoo, Tajpej (Tajwan)</li>
+                <li>River Safari, Singapur </li>
+            </ul></p>
+    </conbody>
+</concept>
