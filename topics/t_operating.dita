@@ -3,8 +3,8 @@
 <task id="t_operating">
     <title>Operating the <keyword keyref="company"/>
         <keyword keyref="product"/></title>
-    <shortdesc>Follow these instructions to brew delicious coffee with your <keyword
-            keyref="product"/> espresso machine.</shortdesc>
+    <shortdesc>Follow these instructions to brew coffee with your <keyword keyref="product"/>
+        espresso machine.</shortdesc>
     <taskbody>
         <steps>
             <step>

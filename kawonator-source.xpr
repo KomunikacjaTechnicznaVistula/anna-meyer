@@ -30,6 +30,26 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>KW_docset.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>PDF2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>KW100_maintenance_guide.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -127,10 +147,10 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>C:\git\kawonator-source\docs\topics</String>
+                                    <String>${pd}/docs</String>
                                 </field>
                                 <field name="tempDir">
-                                    <String>C:\git\DITA-output-temp</String>
+                                    <String>${pd}</String>
                                 </field>
                                 <field name="transtype">
                                     <String>pdf2</String>
@@ -301,10 +321,10 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>C:\git\kawonator-source\docs</String>
+                                    <String>${pd}/docs</String>
                                 </field>
                                 <field name="tempDir">
-                                    <String>C:\git\DITA-output-temp</String>
+                                    <String>${pd}</String>
                                 </field>
                                 <field name="transtype">
                                     <String>webhelp-responsive</String>

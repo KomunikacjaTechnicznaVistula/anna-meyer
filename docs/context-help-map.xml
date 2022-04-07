@@ -13,12 +13,12 @@
    <appContext helpID="t_operating" path="topics/t_cleaning_steam-2.html"/>
    <appContext helpID="t_operating" path="topics/t_cleaning_filter-2.html"/>
    <appContext helpID="t_operating" path="topics/t_operating-3.html"/>
-   <appContext helpID="r_glossary" path="glossary/r_glossary.html#r_glossary"/>
+   <appContext helpID="r_glossary" path="glossary/r_glossary.html"/>
    <appContext helpID="g_brew_head" path="glossary/r_glossary.html#g_brew_head"/>
    <appContext helpID="g_filter_holder"
                path="glossary/r_glossary.html#g_filter_holder"/>
    <appContext helpID="g_steam_wand" path="glossary/r_glossary.html#g_steam_wand"/>
    <appContext helpID="g_portafilter" path="glossary/r_glossary.html#g_portafilter"/>
-   <appContext helpID="unique_1833358404"
-               path="glossary/r_glossary.html#unique_1833358404"/>
+   <appContext helpID="unique_1771050801"
+               path="glossary/r_glossary.html#unique_1771050801"/>
 </map>
