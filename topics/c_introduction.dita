@@ -24,9 +24,9 @@
                         >KW200 consumer guide (PDF)</xref></li>
             </ul>
             <ul id="ul_rns_lhg_cpb" audience="maintenance">
-                <li><xref href="../docs/KW100_maintenance_guide.pdf" format="pdf" scope="external"
+                <li><xref href="../docs/KW100_maintenance_guide.pdf" format="pdf" scope="local"
                         >KW100 maintenance guide (PDF)</xref></li>
-                <li><xref href="../docs/KW200_maintenance_guide.pdf" format="pdf" scope="external"
+                <li><xref href="../docs/KW200_maintenance_guide.pdf" format="pdf" scope="local"
                         >KW200 maintenance guide (PDF)</xref></li>
             </ul>
         </section>
