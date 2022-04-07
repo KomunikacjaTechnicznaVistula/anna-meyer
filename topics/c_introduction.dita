@@ -18,16 +18,16 @@
         <section id="section_czc_tgg_cpb" audience="html">
             <title>Documentation downloads</title>
             <ul id="ul_ttj_ygg_cpb" audience="consumer">
-                <li><xref href="KW100_consumer_guide.pdf" format="pdf" scope="external">KW100
-                        consumer guide (PDF)</xref></li>
-                <li><xref href="KW200_consumer_guide.pdf" format="pdf" scope="external">KW200
-                        consumer guide (PDF)</xref></li>
+                <li><xref href="../docs/KW100_consumer_guide.pdf" format="pdf" scope="external"
+                        >KW100 consumer guide (PDF)</xref></li>
+                <li><xref href="../docs/KW200_consumer_guide.pdf" format="pdf" scope="external"
+                        >KW200 consumer guide (PDF)</xref></li>
             </ul>
             <ul id="ul_rns_lhg_cpb" audience="maintenance">
-                <li><xref href="KW100_maintenance_guide.pdf" format="pdf" scope="external">KW100
-                        maintenance guide (PDF)</xref></li>
-                <li><xref href="KW200_maintenance_guide.pdf" format="pdf" scope="external">KW200
-                        maintenance guide (PDF)</xref></li>
+                <li><xref href="../docs/KW100_maintenance_guide.pdf" format="pdf" scope="external"
+                        >KW100 maintenance guide (PDF)</xref></li>
+                <li><xref href="../docs/KW200_maintenance_guide.pdf" format="pdf" scope="external"
+                        >KW200 maintenance guide (PDF)</xref></li>
             </ul>
         </section>
     </conbody>
